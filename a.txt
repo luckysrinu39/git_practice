@@ -1,2 +1,1 @@
-my name is Srinu
-My Father's Name is Siva
+My name is : Srinu 
