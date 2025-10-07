@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-My name is : Srinu 
-=======
 my name is : Srinu
 My Father Name is : Siva
->>>>>>> bafacfda3485af16da47864a03f4168267dc950d
